@@ -1,5 +1,5 @@
 /* Mesa MT5 · cache offline (apenas ficheiros estáticos desta app) */
-const CACHE = "mesa-mt5-v1";
+const CACHE = "mesa-mt5-v2";
 const ASSETS = [
   "./",
   "index.html",
